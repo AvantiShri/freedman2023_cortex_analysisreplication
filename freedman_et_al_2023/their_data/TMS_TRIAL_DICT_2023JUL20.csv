@@ -1,0 +1,7 @@
+COLUMN_LABEL,DESCRIPTION,VALUES
+id,unique identification number assigned to each participant,integer between 1 and 108
+randomization,randomly assigned treatment arm and order of intention,1 (R stimulation L intention first) or 2 (R stimulation R intention first) or 3 (L stimulation L intention first) or 4 (L stimulation R intention first) or 5 (S stimulation L intention first) or 6 (S stimulation R intention first)
+tmsgroup,type of stimulation,1 (R stimulation) or 2 (L stimulation) or 3 (Sham stimulation)
+condition,type of trial,experimental right (1) or control right (2) or experimental left (3) or control left (4)
+trial,order of trials within a condition,integer from 1 to 500
+reg,sum of 200 consecutive binary 0 or 1 digits within a trial,integer from 0 to 200
