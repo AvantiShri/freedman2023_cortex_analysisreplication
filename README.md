@@ -1,0 +1,1 @@
+Visit https://colab.research.google.com/github/AvantiShri/papers_analysisreplication/blob/master/freedman_et_al_2023/Freedman_et_al_2023_analysis.ipynb#scrollTo=56b47d3c for a notebook replicating all analyses
